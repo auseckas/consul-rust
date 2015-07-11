@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HealthService","HealthService is used for the health service"],["Node","Node represents a node"],["Service","Service represents a service"]]});
